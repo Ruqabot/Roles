@@ -1,0 +1,17 @@
+{
+  "name": "roles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.30",
+    "dotenv": "^16.0.0",
+    "eris": "^0.16.1"
+  }
+}
